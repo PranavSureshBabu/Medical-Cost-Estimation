@@ -1,6 +1,7 @@
 # Medical-Cost-Estimation
 
-**About Dataset**
+![image](https://github.com/user-attachments/assets/38175693-13cb-4446-86ae-a52bfc107883)
+
 
 **🩺Overview:**
 
