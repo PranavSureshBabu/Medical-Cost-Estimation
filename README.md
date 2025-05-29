@@ -1,20 +1,26 @@
 # Medical-Cost-Estimation
 
-Content
+**About Dataset**
 
-Columns
+**Dataset Overview:**
 
-age: age of primary beneficiary
+The medical insurance dataset encompasses various factors influencing medical expenses, such as age, sex, BMI, smoking status, number of children, and region. This dataset serves as a foundation for training machine learning models capable of forecasting medical expenses for new policyholders.
 
-sex: insurance contractor gender, female, male
+Its purpose is to shed light on the pivotal elements contributing to increased insurance costs, aiding the company in making more informed decisions concerning pricing and risk assessment.
 
-bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height,
-objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9
+The dataset comprises 2.7K rows and 7 columns, including:
 
-children: Number of children covered by health insurance / Number of dependents
+Age
 
-smoker: Smoking
+Sex
 
-region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+BMI (Body Mass Index)
 
-charges: Individual medical costs billed by health insurance
+Children
+
+Smoker
+
+Region
+
+Charges
+
