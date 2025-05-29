@@ -12,42 +12,42 @@ By identifying patterns and quantifying their impact on charges, the model aids 
 **📊 Dataset Overview**
 The medical insurance dataset encompasses a variety of features known to affect healthcare expenditures. These include:
 
-Age
+* Age
 
-Sex
+* Sex
 
-BMI (Body Mass Index)
+* BMI (Body Mass Index)
 
-Number of Children
+* Number of Children
 
-Smoking Status
+* Smoking Status
 
-Region
+* Region
 
-Charges (Target variable)
+* Charges (Target variable)
 
 This dataset contains approximately 2,700 rows and 7 columns. It serves as a foundation for building machine learning models capable of forecasting future expenses for new insurance applicants, thereby supporting data-driven pricing and policy design.
 
 **🎯 Objectives**
 
-Explore and analyze key features influencing insurance charges
+* Explore and analyze key features influencing insurance charges
 
-Visualize correlations and distributions among variables
+* Visualize correlations and distributions among variables
 
-Build and evaluate a regression model to predict medical expenses
+* Build and evaluate a regression model to predict medical expenses
 
-Interpret feature importance for actionable business insights
+* Interpret feature importance for actionable business insights
 
 
 ![image](https://github.com/user-attachments/assets/73aeaf43-5fe3-42da-8d56-70455e506a4f)
 
 **🚀 How to Run the Notebook**
 
-Clone the repository or download the notebook
+* Clone the repository or download the notebook
 
 Install the required packages:
-pip install pandas numpy matplotlib seaborn scikit-learn
+* pip install pandas numpy matplotlib seaborn scikit-learn
+  
+* Launch Jupyter Notebook and open Medical_expense_prediction.ipynb
 
-Launch Jupyter Notebook and open Medical_expense_prediction.ipynb
-
-Run each cell in order to preprocess data, train the model, and view results
+* Run each cell in order to preprocess data, train the model, and view results
