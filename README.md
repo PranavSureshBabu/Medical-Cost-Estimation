@@ -41,6 +41,44 @@ This dataset contains approximately 2,700 rows and 7 columns. It serves as a fou
 
 ![image](https://github.com/user-attachments/assets/73aeaf43-5fe3-42da-8d56-70455e506a4f)
 
+**📌 Key Steps & Methodology**
+
+1. Data Cleaning & Preprocessing
+
+* Converted categorical variables using Label Encoding
+
+* Checked for null values and ensured data integrity
+
+2. Exploratory Data Analysis (EDA)
+
+* Visualized distributions (e.g., charges by smoking status)
+
+* Created correlation heatmaps to identify feature relationships
+
+* Detected outliers and variable trends
+
+3. Feature Selection
+
+* Analyzed the importance of features such as age, BMI, and smoker
+
+* Removed less impactful features for model optimization
+
+4. Model Building
+
+* Trained a Linear Regression model using scikit-learn
+
+* Split the data into training and testing sets (80:20 ratio)
+
+* Evaluated performance using R² and MAE metrics
+
+5. Insights
+
+* Smoking and BMI significantly influence charges
+
+* Older individuals and those with higher BMI face higher premiums
+
+* Regional and gender differences were less impactful
+
 **🚀 How to Run the Notebook**
 
 * Clone the repository or download the notebook
